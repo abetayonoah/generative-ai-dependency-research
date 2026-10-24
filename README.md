@@ -49,11 +49,16 @@ jupyter notebook notebooks/genai_dependency_analysis.ipynb
 
 Download the original workbook from the cited Zenodo record and save it to `data/When Culture Meets AI - Survey Dataset.xlsx`. Then run the notebook cells in order. The exact dependency versions used in the original analysis were not captured; ranges in `requirements.txt` are a starting point, not a locked reproducible environment.
 
-## Research paper
-The final manuscript PDF and publication DOI can be added once publication details are confirmed. **A Zenodo deposit is a public research record, not peer review.**
+## Research Publication
 
-## Dataset citation
-Pertiwi & Adiningrum (2026). *When Culture Meets AI: A Cross-Cultural Study of Generative AI Dependency Among U.S. and Indonesian Business Students*. Zenodo. https://doi.org/10.5281/zenodo.21013786
+**Title:** Generative AI Dependency and Perceived Negative Effects on Problem-Solving Among University Students: A Cross-Sectional Study
 
-## Limitations
-Cross-sectional design, self-report measures, and nonrandom sampling limit causal and population-wide conclusions. This project uses an existing third-party dataset and does not claim ownership of the underlying survey data.
+**Author:** Abe Tayo Noah
+
+**Publication:** Zenodo (2026) — Preprint
+
+**DOI:** https://doi.org/10.5281/zenodo.23624821
+
+## Citation
+
+Abe, T. N. (2026). *Generative AI dependency and perceived negative effects on problem-solving among university students: A cross-sectional study* [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.23624821
